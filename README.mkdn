@@ -1,0 +1,32 @@
+jshint-tap-simple
+=================
+
+This is a simple module to use jshint with TAP(Test Anything Protocol) output.
+
+Usage
+-----
+
+    require('jshint-tap-simple').run('*.js');
+
+Methods
+-------
+
+### j.run(pattern..., opt)
+
+    j.run('src/*.js')
+
+Run a jshint with files. You can pass a glob pattern to this function.
+
+opt will pass to JSHINT.
+
+### j.runFile(filename, opt)
+
+Run a jshint with file.
+
+SEE ALSO
+--------
+
+### https://github.com/irae/jshint-tap
+
+no docs, hard to use.
+
