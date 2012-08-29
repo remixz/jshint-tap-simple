@@ -1,6 +1,6 @@
 {
   "name": "jshint-tap-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tap output for jshint",
   "main": "index.js",
   "scripts": {
