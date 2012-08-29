@@ -1,0 +1,20 @@
+{
+  "name": "jshint-tap-simple",
+  "version": "1.0.0",
+  "description": "tap output for jshint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tokuhirom/jshint-tap-simple.git"
+  },
+  "keywords": [
+    "tap",
+    "test",
+    "jshint"
+  ],
+  "author": "Tokuhiro Matsuno",
+  "license": "MIT"
+}
